@@ -30,7 +30,7 @@
       <input type="text" class="form-control" id="mobile" placeholder="Enter Mobile No" name="mobile">
       <input type="hidden" class="form-control"  id="get_otp" name="otp">
     </div>
-    <button type="button" class="btn btn-success" id="store">Submit</button>
+    <button type="button" class="btn btn-success" id="store">submi</button>
     <button type="button" class="btn btn-info"  id="otp">Send OTP</button>
   </form><br>
 
